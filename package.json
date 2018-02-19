@@ -1,0 +1,9 @@
+{
+  "scripts": {
+  "start": "node index.js"
+},
+  "dependencies": {
+    "@maidsafe/safe-node-app": "0.6.1",
+    "yarn": "^1.3.2"
+  }
+}
