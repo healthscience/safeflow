@@ -1,24 +1,13 @@
 # safeflow
 ===========
-connector to SAFE network
 
-This functional works in conjection with the ResoutionScience UI for the healthscience.netwokr (also see its dependencies) https://github.com/healthscience/resolutionscience
+SAFEflow is new protocol that controls the creation of entries for a Knowledge Bundle Ledger
 
-The provides the data plumbing to the source data, computations and UI.
+Open Docs
+---------
 
-Three inital storage data, temproty cloud, open data IPFS and private SAFEnetwork
-
-Install
--------
-
-(sudo) yarn install   (module for nodejs safe api/native)
-
-sudo yarn start
-
-Login to the SAFE network or create an account
-
+SAFEflow - https://drive.google.com/open?id=1OUY8grMUyTyHnWQf7ivL1oDFpFzCjKtU
+Knowledge Bundle Ledger - https://drive.google.com/open?id=1cJuDMhDUF0tBP4Rnu0kJy7X9sNbC8_DO
 
 Contribute
 ===========
-
-Take a look at roadmap
