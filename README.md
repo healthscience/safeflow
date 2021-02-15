@@ -1,7 +1,9 @@
 # safeflow
 ===========
 
-SAFEflow is new protocol that controls the creation of entries for a Knowledge Bundle Ledger
+SAFEflow is new protocol to assist the coordination of coherence over a peer to peer network. Part data science engine, computer game engine and authority for making entries in the knowledge bundle ledger.
+
+Proof of concept being coded in javascript https://github.com/healthscience/node-safeflow
 
 Open Docs
 ---------
